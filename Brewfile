@@ -67,12 +67,4 @@ brew mpfr
 tap rcmdnk/file
 brew brew-file
 
-brew wonkacli
-brew cerberus
-brew docker-ssh-agent-forward
-brew yab
-brew go-build --HEAD
-brew arcanist
-brew itea
-
 # App Store applications
