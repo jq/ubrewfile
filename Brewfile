@@ -11,7 +11,7 @@ cask vagrant
 cask visual-studio-code
 cask xquartz
 
-tap homebrew/completions
+#tap homebrew/completions
 
 tap homebrew/core
 brew sqlite
@@ -60,9 +60,9 @@ brew rbenv
 brew mpssh
 brew mpfr
 
-tap homebrew/science
+#tap homebrew/science
 
-tap homebrew/versions
+#tap homebrew/versions
 
 tap rcmdnk/file
 brew brew-file
