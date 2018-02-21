@@ -67,22 +67,12 @@ tap homebrew/versions
 tap rcmdnk/file
 brew brew-file
 
-tap uber/alt
-brew unison240-uber
-brew uber-developer --with-r
 brew wonkacli
 brew cerberus
-brew ubercmd
 brew docker-ssh-agent-forward
 brew yab
 brew go-build --HEAD
 brew arcanist
-brew objective-caml401-uber
 brew itea
 
 # App Store applications
-appstore 682658836 GarageBand (10.2.0)
-appstore 408981434 iMovie (10.1.6)
-appstore 409183694 Keynote (7.1.1)
-appstore 409203825 Numbers (4.1.1)
-appstore 409201541 Pages (6.1.1)
