@@ -1,70 +1,63 @@
 
 # tap repositories and their packages
 
-tap aspnet/dnx
+tap homebrew/core
+brew autoconf
+brew automake
+brew axel
+brew bash-completion
+brew doxygen
+brew gcc
+brew gdbm
+brew gettext
+brew git
+brew git-lfs
+brew gmp
+brew go
+brew gradle
+brew isl
+brew jpeg
+brew jq
+brew libevent
+brew libmpc
+brew libpng
+brew libtool
+brew libyaml
+brew mas
+brew maven
+brew md5sha1sum
+brew mercurial
+brew mpfr
+brew mpssh
+brew oniguruma
+brew openssl
+brew pcre
+brew pigz
+brew pkg-config
+brew python
+brew r
+brew rbenv
+brew readline
+brew ruby-build
+brew shellcheck
+brew sqlite
+brew swig
+brew tig
+brew tmux
+brew vagrant-completion
+brew watch
+brew xz
 
 tap caskroom/cask
-cask docker
-cask intellij-idea
-cask java
-cask vagrant
 cask visual-studio-code
+cask intellij-idea
+cask iterm2
+cask docker
+cask vagrant
 cask xquartz
+cask java
 
-#tap homebrew/completions
-
-tap homebrew/core
-brew sqlite
-brew jpeg
-brew xz
-brew go
-brew vagrant-completion
-brew gdbm
-brew pkg-config
-brew readline
-brew pcre
-brew gcc
-brew git
-brew oniguruma
-brew md5sha1sum
-brew tig
-brew gettext
-brew automake
-brew tmux
-brew axel
-brew libpng
-brew gmp
-brew shellcheck
-brew ruby-build
-brew mas
-brew libmpc
-brew python
-brew swig
-brew watch
-brew jq
-brew bash-completion
-brew maven
-brew libtool
-brew libevent
-brew pigz
-brew git-lfs
-brew doxygen
-brew mercurial
-brew libyaml
-brew openssl
-brew gradle
-brew r
-brew isl
-brew autoconf
-brew rbenv
-brew mpssh
-brew mpfr
-
-#tap homebrew/science
-
-#tap homebrew/versions
+tap aspnet/dnx
 
 tap rcmdnk/file
 brew brew-file
-
-# App Store applications
