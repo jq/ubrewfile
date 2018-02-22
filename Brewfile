@@ -19,9 +19,11 @@ brew isl
 brew jpeg
 brew jq
 brew libevent
+brew libidn2
 brew libmpc
 brew libpng
 brew libtool
+brew libunistring
 brew libyaml
 brew mas
 brew maven
@@ -46,6 +48,7 @@ brew tig
 brew tmux
 brew vagrant-completion
 brew watch
+brew wget
 brew xz
 
 tap caskroom/cask
