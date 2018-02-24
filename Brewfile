@@ -59,6 +59,7 @@ cask docker
 cask vagrant
 cask xquartz
 cask java
+cask pycharm-ce
 
 tap aspnet/dnx
 
