@@ -6,12 +6,15 @@ brew autoconf
 brew automake
 brew axel
 brew bash-completion
+brew boost
+brew cmake
 brew doxygen
 brew gcc
 brew gdbm
 brew gettext
 brew git
 brew git-lfs
+brew giter8
 brew gmp
 brew go
 brew gradle
@@ -41,8 +44,10 @@ brew r
 brew rbenv
 brew readline
 brew ruby-build
+brew sbt
 brew shellcheck
 brew sqlite
+brew ssh-copy-id
 brew swig
 brew tig
 brew tmux
